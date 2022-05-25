@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm NOORMUHAMMAD</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
+<img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noormuhamad&label=Profile%20views&color=0e75b6&style=flat" alt="noormuhamad" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormuhamad&label=Profile%20views&color=0e75b6&style=flat" alt="noormuhamad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noormuhamad" alt="noormuhamad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/noormuhamma_d" target="blank"><img src="https://img.shields.io/twitter/follow/noormuhamma_d?logo=twitter&style=for-the-badge" alt="noormuhamma_d" /></a> </p>
+<p align="left"> <a href="https://twitter.com/noormuhamma_d" target="blank"><img src="https://img.shields.io/twitter/follow/noormuhamma_d?logo=twitter&style=for-the-badge" alt="noormuhamma_d" /></a> </p> -->
 
 - 🔭 I’m currently working on [Web Automation](https://github.com/NoorMuhamad/web-automation)
 
