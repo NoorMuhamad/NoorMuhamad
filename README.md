@@ -1,4 +1,4 @@
-![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif)
+![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm NOORMUHAMMAD</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
