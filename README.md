@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm NOORMUHAMMAD</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormuhamad&label=Profile%20views&color=0e75b6&style=flat" alt="noormuhamad" /> </p>
 
@@ -10,11 +10,15 @@
 
 - 🔭 I’m currently working on [Web Automation](https://github.com/NoorMuhamad/web-automation)
 
-- 🌱 I’m currently learning **Chrome Extension**
+- 🌱 I’m currently learning **Chrome Extension Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NoorMuhamad](https://github.com/NoorMuhamad)
 
 - 💬 Ask me about **React Angular Node Nest**
 
 - 📫 How to reach me **noorrasheed317@gmail.com**
+
+- ⚡ Fun fact **I am funny when I am free**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
